@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">myQuizApp</string>
+
+    <string name="Q1Text">1. A lion of Justice remains...</string>
+    <string name="q1">unperturbed by the harshest storms</string>
+    <string name="q2">aware of the common humanity we all share</string>
+
+
+    <string name="Q2Text">2. "Absolute happiness comes from becoming a person who... "</string>
+    <string name="q3">"directly attacks and overcomes the forces of oppression, both external and internal, \n at the root"</string>
+    <string name="q4">"develops into a lion, unafraid of any function \nin life that attempts to intimidate us"</string>
+
+
+
+    <string name="Q3Text">3. A lion of Justice is someone who...</string>
+    <string name="q5">combats the injustice raging in society</string>
+    <string name="q6">"creates a society in which the happiness of \nall people becomes the priority"</string>
+
+
+
+    <string name="Q4Text">4. A successor must be...</string>
+
+
+    <string name="Q5Text">5. \"Even if no one else lifts a finger, \n I will...\"</string>
+    <string name="q9">"transform this situation with \nmy own prayer and action"</string>
+    <string name="q10">"have a stand alone spirit \nand courageously take action"</string>
+    <string name="q101">"Both of the above"</string>
+
+
+
+
+    <string name="Q6Text">6. Instead of settling fo shallow human relationships,
+        you should...</string>
+    <string name="q11">take every opportunity to engage in dialogue</string>
+    <string name="q12">"listen and offer encouragement to everyone \nyou engage with"</string>
+
+
+
+    <string name="Q7Text">7. Are you ready to...</string>
+    <string name="q13">declare \"Today, we have ushered in an era of hope and respect!\"</string>
+    <string name="q14">"open a new era to counter authoritarianism \nand empower the common people!"</string>
+
+
+
+    <string name="Q8Text">"8. Will you stand up as a Lion of Justice \non September 23rd, 2018\?"</string>
+    <string name="q15">Yes!</string>
+    <string name="q16">Maybe ;)</string>
+
+
+    <string name="web">REGISTER: WWW.LIONSOFJUSTICE.ORG</string>
+
+</resources>
